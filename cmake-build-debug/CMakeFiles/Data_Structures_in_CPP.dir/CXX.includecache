@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kyle/Documents/GitHub/Data-Structures-in-CPP/main.cpp
+iostream
+-
+
+C:/Users/Kyle/Documents/GitHub/Data-Structures-in-CPP/testing/inout.cpp
+iostream
+-
+
