@@ -1,3 +1,0 @@
-C:\Users\Kyle\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Data_Structures_in_CPP.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Data_Structures_in_CPP.dir/objects.a @CMakeFiles\Data_Structures_in_CPP.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Data_Structures_in_CPP.dir/objects.a -Wl,--no-whole-archive  -o Data_Structures_in_CPP.exe -Wl,--out-implib,libData_Structures_in_CPP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Data_Structures_in_CPP.dir\linklibs.rsp
